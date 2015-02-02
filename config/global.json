@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Greenery": {
+            "applicationId": "PdIohJYPfte6ch4BgpUfCpRZ7f64SMwAlJYCkpcD", 
+            "masterKey": "LV8fVh8n50YsD75Odrb1ASg6J1iCQhIzoy6VdCLg"
+        }, 
+        "_default": {
+            "link": "Greenery"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
